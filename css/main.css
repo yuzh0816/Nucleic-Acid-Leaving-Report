@@ -1,0 +1,101 @@
+h1{
+    margin: 0px;
+}
+body {
+    text-align: center;
+}
+.container {
+    text-align: left;
+    font-size: 22px;
+    width: 80%;
+    margin: 10% auto 0;
+    background-color: #f0f0f0;
+    padding: 2% 5%;
+    padding-bottom: 5%;
+    border-radius: 10px
+}
+
+
+.git-link {
+    z-index: 100;
+    position: fixed;
+    top: 0;
+    right: 0;
+    border: 0;
+    height: 149px;
+    width: 149px;
+    transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    background-image: url(https://s1.ax1x.com/2022/04/28/LOU9XQ.png);
+}
+
+.listname {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    max-width: 100%;
+    display: inline-block;
+    width: 10em;
+}
+
+.listleavetime {
+    overflow: hidden;
+    max-width: 100%;
+    display: inline-block;
+    width: 16em;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+ul li {
+    line-height: 2.3;
+}
+
+a {
+    color: #ff5733;
+    text-decoration: none;
+}
+input[type="text"] {
+    max-width: 80%;
+    font-size: 18px;
+    padding: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    border: 0px;
+}
+input[type="submit"] {
+    font-size: 13px;
+    padding: 7px;
+    border: 0px;
+    background: #c9c9c9;
+    border-radius: 5px;
+}
+.search input[type="submit"]{
+    font-size: 20px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+input[type="checkbox"] {
+    margin-bottom: 5px;
+    margin-right: 10px;
+    width: 20px;
+    height: 20px;
+    background-color: #fff;
+    -webkit-appearance: none;
+    border: 1px solid #c9c9c9;
+    border-radius: 2px;
+    outline: none;
+}
+input[type="checkbox"]:checked {
+    background: #adadad;
+    background-size: 100% 100%;
+}
+form {
+    font-size: 25px;
+}
