@@ -3,9 +3,9 @@ A quick reporting tool.
 
 ## Usage
 
-1. Create a database, then create a table.
+1. Create a database.
 
-2. Enter the root dictionary and type the information of your database.
+2. Enter the site's root dictionary and type the information of your database.
 
 ![Initialization](https://user-images.githubusercontent.com/46953451/168054148-bbd9fe15-2f2d-4dcf-9669-a54dc2aa056d.png)
 
