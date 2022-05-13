@@ -10,7 +10,7 @@
         <link href="css/main.css?version=0.1" rel="stylesheet" type="text/css" />
     </head>
     <body>
-        <a class="git-link" href="https://github.com/yuzh0816"></a>
+        <a class="git-link" href="https://github.com/yuzh0816/Nucleic-Acid-Leaving-Report"></a>
         <div class="container">
             <h1>核酸请假系统-管理端</h1>
             <div id="main" style="width: calc( 100% );height:350px;overflow-x: scroll;"></div>
@@ -144,8 +144,5 @@
         </div>
         <br>由 @yuzh 强力驱动
         <br>本项目已<a href="https://github.com/yuzh0816/Nucleic-Acid-Leaving-Report">开源</a>
-        <br>
-        <img src="/img/ICP.png" width="20px">
-        <a href="https://beian.miit.gov.cn/" target="_blank">琼ICP备2021005668号-1</a>
     </body>
 </html>

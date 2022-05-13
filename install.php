@@ -9,7 +9,7 @@
         <link href="css/main.css?version=0.1" rel="stylesheet" type="text/css" />
     </head>
     <body>
-        <a class="git-link" href="https://github.com/yuzh0816"></a>
+        <a class="git-link" href="https://github.com/yuzh0816/Nucleic-Acid-Leaving-Report"></a>
         <div class="container">
             <?php
                 if(isset($_GET["from"])==0 && $_GET["finish"]!=1)
@@ -43,6 +43,7 @@
                     $date = date("Y-m-d H:i:s");
                     $inserttable = "INSERT INTO maindata (id, name, leave_date) VALUES ('1', '测试姓名', '" . $date . "')";
                     mysqli_query($conn, $inserttable);
+                    echo "success";
                 }
                 if($_GET["finish"]==1 || $username!="")
                 {

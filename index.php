@@ -4,12 +4,12 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8; X-Content-Type-Options=nosniff; " />
         <meta name="viewport" content="width=device-width,initial-scale=1"/>
         <meta charset="utf-8">
-        <title>核酸请假系统</title>
+        <title>核酸请假系统-DEMO</title>
         <link rel="shortcut icon" href="images/favicon.ico.png">
         <link href="css/main.css?version=0.1" rel="stylesheet" type="text/css" />
     </head>
     <body>
-        <a class="git-link" href="https://github.com/yuzh0816"></a>
+        <a class="git-link" href="https://github.com/yuzh0816/Nucleic-Acid-Leaving-Report"></a>
         <div class="container">
         <h1>核酸请假系统</h1>
         <div style="font-size: 25px;margin-bottom: 0.5rem;">Tips: 请假三十分钟后自动删除。</div>
