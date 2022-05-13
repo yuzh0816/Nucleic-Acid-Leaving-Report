@@ -8,6 +8,6 @@
         $url="install.php?from=src";
         echo "<script>"; 
         echo "location.href='" . $url ."'";
-        echo "</script>";
+        echo "</script>"; 
     }
 ?>

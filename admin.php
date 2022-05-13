@@ -144,5 +144,8 @@
         </div>
         <br>由 @yuzh 强力驱动
         <br>本项目已<a href="https://github.com/yuzh0816/Nucleic-Acid-Leaving-Report">开源</a>
+        <br>
+        <img src="/img/ICP.png" width="20px">
+        <a href="https://beian.miit.gov.cn/" target="_blank">琼ICP备2021005668号-1</a>
     </body>
 </html>
